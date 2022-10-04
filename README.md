@@ -6,3 +6,13 @@ Buleted list
 * First element
 * Second element
 * Third element 
+
+Second variant
++ First element
++ Second element
++ Third element 
+
+Third variant
+- First element
+- Second element
+- Third element 
