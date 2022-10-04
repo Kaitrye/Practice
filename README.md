@@ -25,7 +25,11 @@ Numbered list
 ###Highlighting elements
 
 **This text highlighted in bold**
+
 __This text highlighted in bold too__
+
 *This text is in italics*
+
 _This text is in italics_
+
 ***This text highlighted in bold and is in italics***
