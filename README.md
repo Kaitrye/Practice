@@ -7,16 +7,16 @@ Project for introduction to Github
 List of content
 
 1. Block elements
-* Paragraphs and line breaks
-* Заголовки
-* Списки
+ - Paragraphs and line breaks
+ - Titles
+ - Lists
 2. Line elements
- * [Links](#Links)
- * [Emphasis](#Emphasis)
- * Images
+ - [Links](#Links)
+ - [Emphasis](#Emphasis)
+ - Images
 3. Additional elements
-* Backslash
-* Auto-links
+ - Backslash
+ - Auto-links
 
 Buleted list
 * First element
@@ -42,17 +42,17 @@ Numbered list
 
 ### <a name="Emphasis"> </a> Emphasis
 ***
-**This text highlighted in bold**
+**This text is bold**
 
-__This text highlighted in bold too__
+__This text is bold too__
 
-*This text is in italics*
+*This text is italicized*
 
-_This text is in italics too_
+_This text is italicized  too_
 
-***This text highlighted in bold and is in italics***
+***This text is bold and italicized***
 ***
-It's text. `It's source code`. He is inside the text. 
+It's text. `It's source code`. He's inside the text. 
 
     < It's other source code >
     There is code
@@ -64,5 +64,5 @@ There is code
 ```
 ### <a name="Links"> </a> Links
 ***
-* [Example](htttps://example.com)
-* [Website PM-PU](https://apmath.spbu.ru "Faculty PM-PU")
+- [Example](https://example.com)
+- [Website PM-PU](https://apmath.spbu.ru "Faculty PM-PU")
