@@ -66,3 +66,5 @@ There is code
 ***
 - [Example](https://example.com)
 - [Website PM-PU](https://apmath.spbu.ru "Faculty PM-PU")
+
+[More information](https://www.markdownguide.org "Markdown Guide")
