@@ -42,3 +42,7 @@ It's text. `It's source code`. He is inside the text.
     There is code
 
 Text continues.
+```
+< It's other variant source code >
+There is code
+```
