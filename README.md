@@ -30,6 +30,6 @@ __This text highlighted in bold too__
 
 *This text is in italics*
 
-_This text is in italics_
-
+_This text is in italics too_
+***
 ***This text highlighted in bold and is in italics***
