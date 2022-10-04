@@ -37,4 +37,5 @@ _This text is in italics too_
 ***This text highlighted in bold and is in italics***
 ***
 It's text. `It's source code`. He is inside the text. 
-<It's other source code>
+
+< It's other source code >
