@@ -20,4 +20,12 @@ Third variant
 Numbered list
 1. First element
 2. Second element
-4. Third element 
+3. Third element 
+
+###Highlighting elements
+
+**This text highlighted in bold**
+__This text highlighted in bold too__
+*This text is in italics*
+_This text is in italics_
+***This text highlighted in bold and is in italics***
