@@ -18,22 +18,22 @@ List of content
  - Backslash
  - Auto-links
 
-Buleted list
+Unordered List
 * First element
 * Second element
 * Third element 
 
-Second variant
+Unordered List (Second variant)
 + First element
 + Second element
 + Third element 
 
-Third variant
+Unordered List (Third variant)
 - First element
 - Second element
 - Third element 
 
-Numbered list
+Ordered List
 1. First element
 2. Second element
 3. Third element 
@@ -51,6 +51,8 @@ __This text is bold too__
 _This text is italicized  too_
 
 ***This text is bold and italicized***
+
+### Code
 ***
 It's text. `It's source code`. He's inside the text. 
 
